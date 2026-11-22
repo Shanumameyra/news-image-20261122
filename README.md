@@ -1,5 +1,9 @@
 # news-image-20261122
 
+[![make.fun](https://make.fun/badge/news-image-20261122.svg)](https://make.fun/bounty/news-image-20261122)
+[![rank](https://make.fun/badge/news-image-20261122/Shanumameyra/news-image-20261122/rank.svg)](https://make.fun/bounty/news-image-20261122)
+[![reward](https://make.fun/badge/news-image-20261122/Shanumameyra/news-image-20261122/reward.svg)](https://make.fun/bounty/news-image-20261122)
+
 make.fun bounty entry: **Sum up 22 November's world news in one image**
 (Sunday 22 November 2026). Prize pool $100, top 50 entries share it.
 
