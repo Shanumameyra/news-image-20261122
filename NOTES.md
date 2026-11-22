@@ -46,12 +46,16 @@ EIN Presswire live feed 22 Nov; Cognoscere brief 22 Nov; Daily Perspective
   `$MAKEFUN_OUTPUT_DIR` (default /output). No network. Deterministic
   (pure copy).
 
-## Checks (run 22 Nov 2026, see log below)
-- [x] PNG signature + whole-file validity (PIL verify)
+## Checks (run 22 Nov 2026 ~20:55 WIB — ALL PASS)
+- [x] PNG signature valid + whole-file validity (PIL verify passed)
 - [x] Dimensions 1024×1024 (limit 1024×1024)
 - [x] Size 153,741 bytes (limit 1,048,576)
 - [x] Determinism: main.ts run twice → identical sha256
+      `653487bd6ff1f680d0c0950bea479f4687d7c0bff54f328b26d7ebcccdfd8768`
+      (also matches repo entry.png)
 - [x] No network use in main.ts (pure file copy)
+- [x] Repo pushed: https://github.com/Shanumameyra/news-image-20261122
+      commit `1659d7617b27ee46307ce48a0cca94eb396c8983` (main)
 - [ ] Submit — NOT done by this builder; parent handles submission.
 
 ## Submit command (for the parent)
